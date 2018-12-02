@@ -1,0 +1,22 @@
+.strikethrough {
+    text-decoration: line-through;
+}
+
+.tr{
+    border-color: 5px solid black;
+}
+
+
+/* trying to change 'task manager color' */
+.navbar-brand {
+    color: yellow;
+}
+
+body{
+    background-color: black;
+}
+
+
+.navbar {
+    color: darkslategray;
+}
